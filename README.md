@@ -1,7 +1,6 @@
 # Kaluram
  Start Jounery with Backend from Feb 2022 to present 
 
-
 <h1 align="center">Hi 👋, I'm Kaluram</h1>
 <h3 align="center">A passionate Backend Developer from India</h3>
 
@@ -34,14 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaluramkanesh&show_icons=true&locale=en" alt="kaluramkanesh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaluramkanesh&" alt="kaluramkanesh" /></p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaluramkanesh&show_icons=true&locale=en&layout=compact" alt="kaluramkanesh" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaluramkanesh&show_icons=true&locale=en" alt="kaluramkanesh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaluramkanesh&" alt="kaluramkanesh" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaluramkanesh&" alt="kaluramkanesh" /></p>
-
