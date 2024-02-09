@@ -8,11 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaluramkanesh" alt="kaluramkanesh" /></a> </p>
 
-- 🔭 I’m currently working on **CloudyML**
-
 - 🌱 I’m currently learning **Full Stack Development**
-
-- 👯 I’m looking to collaborate on **CloudyML Portal**
 
 - 💬 Ask me about **HTML CSS Tailwind CSS MongoDB Express Node.js**
 
